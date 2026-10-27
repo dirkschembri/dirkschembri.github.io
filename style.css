@@ -9,3 +9,5 @@ h2 { font-size: 20px; margin: 32px 0 8px; }
 a { color: var(--link); }
 code { background: var(--code); padding: 1px 6px; border-radius: 4px; font-size: 15px; }
 .muted { color: var(--muted); }
+.yt-badge { margin: 8px 0 0; }
+.yt-badge img { display: block; width: 210px; height: auto; margin-left: -28px; }
